@@ -4,4 +4,5 @@ fn greet(name: &str) {
 
 fn main() {
     greet("Rust");
+    println!("hello from neovim")
 }
